@@ -9,6 +9,7 @@ Hi there 👋, I'm Ruben
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=plastic" />
+  <img src="https://img.shields.io/badge/Redux-593D88?logo=react&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=black&style=plastic" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic" />
