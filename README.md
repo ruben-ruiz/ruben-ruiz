@@ -2,7 +2,7 @@
 Hi there 👋, I'm Ruben
 </h1>
 
-<p align="center">I am a Software Engineer based in New York, NY 🗽</p>
+<p align="center">I am a Software Engineer based in Mountain View, CA</p>
 
 <h2 align="center">Tech Stack</h2>
 <h3 align="center">Front End</h3>
